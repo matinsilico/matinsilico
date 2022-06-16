@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matinsilico
-- 👀 I’m interested in cryptourrency, cybersec, tech
-- 🌱 I’m currently learning python and rust
+- 👀 I’m interested in cryptocurrency, WEB3 and tech.
+- 🌱 I’m currently learning Solidity & Rust.
+
 
 
 <!---
