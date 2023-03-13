@@ -5,6 +5,9 @@ My tester's portfiolio
 ## About Me 
 Hi, My name is Mateusz and I am manual tester. I'm technology passionate. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 
+##Currently learning 
+Python, JavaScript, Automation Testing
+
 ## Tools 
 * OBS - Screen capture software
 * Postman - Testing tool for REST API
